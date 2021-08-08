@@ -1,0 +1,123 @@
+body {
+    margin: 0px;
+}
+.img {
+    background: url('HP-Hero-Header@2x.jpg');
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 10px 50px;
+    margin-bottom: 270px;
+}
+.page div {
+    display: inline-block;
+    margin-left: 15px;
+}
+.logo {
+    font-size: 20px;
+}
+
+.p1 {
+    font-size: 30px;
+    color:  white;
+    margin-bottom: 10px;
+}
+.p2 {
+    color:  white;
+    margin-bottom: 10px;
+}
+    
+
+.wrap {
+    width: 350px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.btn {
+  border: 1px solid skyblue;
+  background-color: skyblue;
+  padding: 10px 30px 10px 30px;
+  color: white;
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  font-family: inherit;
+}
+@media screen and (max-width: 300px)
+{
+    body {
+        margin: 0px;
+    }
+    .img {
+        background: url('HP-Hero-Header@2x.jpg');
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 700px;
+    }
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        color: white;
+        padding: 10px 50px;
+        margin-bottom: 270px;
+    }
+    .page div {
+        display: inline-block;
+        margin-left: 15px;
+    }
+    .logo {
+        font-size: 20px;
+    }
+    
+    .p1 {
+        font-size: 30px;
+        color:  white;
+        margin-bottom: 10px;
+    }
+    .p2 {
+        color:  white;
+        margin-bottom: 10px;
+    }
+        
+    
+    .wrap {
+        width: 350px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+    .btn {
+      border: 1px solid skyblue;
+      background-color: skyblue;
+      padding: 10px 30px 10px 30px;
+      color: white;
+      border-radius: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0 auto;
+      font-family: inherit;
+    }
+
+}
+
+
+
+
+
+
+
